@@ -2,7 +2,7 @@
     {
         "idProducto": 1,
         "nombreProducto": "Rastrillo",
-        "codigo": "GDN-0011",
+        "codigoProducto": "GDN-0011",
         "fechaPublicacion": "Marzo 19, 2016",
         "descripcion": "Rastrillo de 48 pulgadas con mango de madera",
         "precio": 19.95,
