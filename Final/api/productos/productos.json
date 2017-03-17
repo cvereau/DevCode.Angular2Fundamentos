@@ -1,0 +1,52 @@
+[
+    {
+        "idProducto": 1,
+        "productName": "Rastrillo",
+        "codigoProducto": "GDN-0011",
+        "fechaPublicacion": "Marzo 19, 2016",
+        "descripcion": "Rastrillo de 48 pulgadas con mango de madera",
+        "precio": 19.95,
+        "rating": 3.2,
+        "imagenURL": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "idProducto": 2,
+        "productName": "Carretilla",
+        "codigoProducto": "GDN-0023",
+        "fechaPublicacion": "Marzo 18, 2016",
+        "descripcion": "Carretilla rodante con capacidad para 15 galones",
+        "precio": 32.99,
+        "rating": 4.2,
+        "imagenURL": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    },
+    {
+        "idProducto": 5,
+        "productName": "Martillo",
+        "codigoProducto": "TBX-0048",
+        "fechaPublicacion": "Mayo 21, 2016",
+        "descripcion": "Martillo garra curvada de acero inoxidable",
+        "precio": 8.9,
+        "rating": 4.8,
+        "imagenURL": "http://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    },
+    {
+        "idProducto": 8,
+        "productName": "Sierra",
+        "codigoProducto": "TBX-0022",
+        "fechaPublicacion": "Mayo 15, 2016",
+        "descripcion": "Sierra de mano de 15 pulgadas de acero inoxidable",
+        "precio": 11.55,
+        "rating": 3.7,
+        "imagenURL": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    },
+    {
+        "idProducto": 10,
+        "productName": "Joystick",
+        "codigoProducto": "GMG-0042",
+        "fechaPublicacion": "Octubre 15, 2015",
+        "descripcion": "Control de videojuego standard para computadora",
+        "precio": 35.95,
+        "rating": 4.6,
+        "imagenURL": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    }
+]
