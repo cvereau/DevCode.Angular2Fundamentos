@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ProductService } from './products/product.service';
-
+// comentario de prueba
 @Component({
     selector: 'pm-app', 
     template: `
